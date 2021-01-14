@@ -1,1 +1,1 @@
-console.log("BridgeLabz is cool")
+console.log("BridgeLabz is cool and awesome")
